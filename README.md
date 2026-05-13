@@ -2,9 +2,8 @@
 
  Electronics and Communication Engineering at VIT Vellore  
  Interested in Embedded Systems and IoT  
- ARC Mobility Hackathon Winner  
- 2 Patents Published   
-
+ Published Two Patents
+ 
 
 ##  TECHNICAL INTERESTS
 
